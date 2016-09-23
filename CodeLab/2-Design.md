@@ -2,8 +2,8 @@
 We will be using the Design Support Library to provide Material Design to older Android versions.
 
 ## Design Support Library
-1. Start by adding the library in your `app/build.gradle` dependencies.
-*Note: At the time of writing, the latest support library is r24.2.1 (September 2016). Refer * https://developer.android.com/topic/libraries/support-library/revisions.html
+1. Start by adding the library in your `app/build.gradle` dependencies.  
+*Note: At the time of writing, the latest support library is r24.2.1 (September 2016). Refer* https://developer.android.com/topic/libraries/support-library/revisions.html
 
   ```java
   dependencies {
@@ -142,7 +142,7 @@ We will be using the Design Support Library to provide Material Design to older 
 2. Extract and replace the `ic_launcher` in your `res/mipmap-*`
 
 ### References
-[1] https://developer.android.com/reference/android/support/design/widget/CoordinatorLayout.html
-[2] https://developer.android.com/reference/android/support/design/widget/AppBarLayout.html
-[3] https://developer.android.com/reference/android/support/design/widget/TabLayout.html
-[4] https://developer.android.com/reference/android/support/v4/view/ViewPager.html
+[1] https://developer.android.com/reference/android/support/design/widget/CoordinatorLayout.html  
+[2] https://developer.android.com/reference/android/support/design/widget/AppBarLayout.html  
+[3] https://developer.android.com/reference/android/support/design/widget/TabLayout.html  
+[4] https://developer.android.com/reference/android/support/v4/view/ViewPager.html  
